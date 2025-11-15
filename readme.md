@@ -17,7 +17,8 @@ while constraining pixel differences across channels. This constraint captures s
 more accurate color restoration. Finally, we validate the effectiveness of our
 method on multiple datasets, achieving state-of-the-art performance.
 
-![fig11](https://github.com/user-attachments/assets/3edd8d4a-2167-49da-9786-84e60cc66467)
+![fig11](https://github.com/user-attachments/assets/b7952204-be19-4483-b4a1-869c8cc84d3f)
+
 
 
 
