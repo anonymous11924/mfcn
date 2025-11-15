@@ -17,9 +17,8 @@ while constraining pixel differences across channels. This constraint captures s
 more accurate color restoration. Finally, we validate the effectiveness of our
 method on multiple datasets, achieving state-of-the-art performance.
 
+![fig11](https://github.com/user-attachments/assets/3edd8d4a-2167-49da-9786-84e60cc66467)
 
-
-![fig11](https://github.com/user-attachments/assets/d06898d0-1586-46dd-aa96-d3d986c7e485)
 
 
 
@@ -80,15 +79,19 @@ python cs_LOLv1_v2_real.py -opt config_path
 
 
 ### Quantitative results on the four datasets: LOLv1, LOLv2-synthesis, LSRW-Huawei, and LSRW-NIKON.
+<img width="1229" height="510" alt="image" src="https://github.com/user-attachments/assets/307a049f-5868-4e91-a40b-b127adc99454" />
 
-<img width="1236" height="516" alt="image" src="https://github.com/user-attachments/assets/11d68804-e839-42e7-a25c-2e475468f413" />
 
 
 ### Qualitative results on the two datasets: LOLv1 and LOLv2-synthesis.
-<img width="1014" height="595" alt="image" src="https://github.com/user-attachments/assets/7da5be25-a425-4357-a28c-7047c06eccc5" />
+
+
+![fig12](https://github.com/user-attachments/assets/988977cb-3437-4e60-abfc-0dc381ebf546)
+
 
 ### Qualitative results on the two datasets: LSRW-Huawei and LSRW-Nikon.
-<img width="988" height="426" alt="image" src="https://github.com/user-attachments/assets/4d100c34-6d9b-4874-b91d-47a3b7bf96a7" />
+
+![fig13](https://github.com/user-attachments/assets/145f6bca-392e-4342-9799-4fca46184f26)
 
 
 
