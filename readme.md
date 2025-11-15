@@ -45,18 +45,13 @@ pip install scikit-image= 0.25.2
 pip install PyYAML=6.0.1
 pip install numpy==1.26.4
 pip install scipy==1.12.0
-```
----
-### 2. Mamba Installation
-
-
-We have prepared the two required source code dependencies for Mamba. Please Follow the commands below to install them：
-```bash
 cd causal-conv1d
 pip install -e .
 cd mamba-1p1p1
 pip install -e .
 ```
+
+
 
 ## Dataset preparation
  - [Low-Light dataset (LOLv1)](https://daooshee.github.io/BMVC2018website/)  Low-Light dataset (LOLv1)
